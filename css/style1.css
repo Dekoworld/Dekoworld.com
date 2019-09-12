@@ -1,0 +1,21 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  font-style: italic;
+  line-height: 30px;
+  color: white;
+}
+ul {
+  color: white;
+  font-size: 30px;
+}
+ol {
+  line-height: 40px;
+  font-family: arial;
+  color: white;
+}
+html {
+  background-color: black;
+}
